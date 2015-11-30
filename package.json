@@ -1,5 +1,5 @@
 {
-  "name": "pingdom",
+  "name": "jamon",
   "version": "1.0.0",
   "description": "Checking network connectivity",
   "main": "app.js",
