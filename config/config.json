@@ -1,5 +1,5 @@
 {
-	"name": "pingdom",
+	"name": "jamon",
 	"debug": true,
 	"server": {
 		"port": 1337
